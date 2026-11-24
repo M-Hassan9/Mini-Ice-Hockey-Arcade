@@ -1,0 +1,18 @@
+MINI ICE HOCKEY ARCADE
+Made by: Zubair Ali, Muhammad Hassan, Muhammad Wasif Ali (BCS-1E)
+
+HOW TO RUN
+1. Extract the ZIP folder.
+2. Double-click MiniIceHockey.exe.
+   (Keep the DLL files and arial.ttf in the same folder.)
+
+HOW TO COMPILE
+1. Install SFML 3 and a C++ compiler (Visual Studio or g++).
+2. Link the SFML libraries: sfml-graphics, sfml-window, sfml-system.
+3. Compile mini_ice_hockey.cpp and run the program.
+
+CONTROLS
+Player 1 (Blue): W A S D
+Player 2 (Red): Arrow keys
+First to 5 goals, or the most goals after 3 minutes, wins.
+ESC returns to the menu.
